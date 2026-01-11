@@ -26,4 +26,4 @@ An interactive Tableau dashboard analyzing video game sales data to show industr
 ## View Live
 https://public.tableau.com/app/profile/daniel.buiko5788/vizzes
 
-*Portfolio project showing Tableau and data analysis skills.*
+*Portfolio project showing my first Tableau and data analysis skills.*
